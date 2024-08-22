@@ -1,9 +1,9 @@
 {
   "productName": "tauri-test",
   "version": "0.1.0",
-  "identifier": "com.tauri.dev",
+  "identifier": "com.mytest6767.tauritest",
   "build": {
-    "frontendDist": "../build",
+    "frontendDist": "../dist",
     "devUrl": "http://localhost:3005",
     "beforeDevCommand": "npm run dev",
     "beforeBuildCommand": "npm run build"
