@@ -11,7 +11,7 @@
 2. Microsoft C++ Build Tools и Install WebView2 - для разрабоки по windows.\
 ```https://v2.tauri.app/start/prerequisites/#windows```
 
-3. Сначала скомпилировать react приложение.\
+3. Сначала собрать react приложение(html, css, js).\
    ```npm run dev```
 
 4. Собрать из html, css, js - Windows приложение.\
