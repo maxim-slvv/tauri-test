@@ -1,23 +1,24 @@
-Установить:
+Установка и запуск:
 
 1. RUST и Cargo - можно сказать CORE
-**https://v2.tauri.app/start/prerequisites/#rust**
-  проверить что все ок
-  **rustc --version**
-  **cargo --version**
+```https://v2.tauri.app/start/prerequisites/#rust```
+  >проверить что все ок.\
+```rustc --version```\
+```cargo --version```
 
-  что бы PATH обновился - перезагрузить терминал
+  >что бы PATH обновился - перезагрузить терминал
 
-2. Microsoft C++ Build Tools и Install WebView2 - для разрабоки по windows
-**https://v2.tauri.app/start/prerequisites/#windows**
+2. Microsoft C++ Build Tools и Install WebView2 - для разрабоки по windows.\
+```https://v2.tauri.app/start/prerequisites/#windows```
 
-3. Сначала скомпилировать react приложение
-  **npm run dev**
+3. Сначала скомпилировать react приложение.\
+   ```npm run dev```
 
-4. Собрать из html, css, js - Windows приложение
-  **npm run tauri dev**
+4. Собрать из html, css, js - Windows приложение.\
+   ```npm run tauri dev```
 
-5. Файл .exe будет в **src-tauri/target/release/app.exe**
+5. Файл .exe будет в \
+```src-tauri/target/release/app.exe```
 
 ------------------------------------------------------------------------------------------------
 далее тут стандартный readme:
